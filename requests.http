@@ -1,0 +1,10 @@
+###
+
+Get http://127.0.0.1/users
+Content-Type: application/json
+
+{
+    "title": "My Title",
+    "body": "My text",
+    "userId": 1
+} 
